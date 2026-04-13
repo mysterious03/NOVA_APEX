@@ -4,7 +4,7 @@
 > 
 > *Built at Home. Powered by AI. Inspired by Rockets.*
 
-NOVA APEX AI is a home-built electrothermal thruster that combines **seven mechanical propulsion upgrades** with a **closed-loop machine learning engine**. Driven by a Raspberry Pi Zero W running a Gradient Descent algorithm, the thruster autonomously measures performance across five sensors and adjusts its operating parameters (pulse timing, valve duration, voltage) in real time to reach maximum thermodynamic efficiency.
+NOVA APEX AI is a home-built electrothermal thruster that combines **seven mechanical propulsion upgrades** with a **closed-loop machine learning engine**. Driven by a Raspberry Pi  running a Gradient Descent algorithm, the thruster autonomously measures performance across five sensors and adjusts its operating parameters (pulse timing, valve duration, voltage) in real time to reach maximum thermodynamic efficiency.
 
 This repository holds the highly interactive, scroll-driven web experience built to visually demonstrate the working principles of the thruster.
 
